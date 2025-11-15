@@ -1,5 +1,6 @@
 # Charades
 你比划我猜，完全使用AI开发的自用游戏App，在我的Pixel 8 Pro手机上可以正常使用。
+因为是自用，并且我没有代码知识，所以这里只是分享出来，如果有任何问题可能我没有能力处理。
 
 ## 💡 一个由真实需求驱动，与AI协作诞生的故事
 
@@ -46,6 +47,5 @@
 
 您可以直接下载 `app-release.apk` 文件进行安装。
 
-[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen)](https://github.com/your-username/your-repo/releases/download/v1.0.0/app-release.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen)](https://github.com/penghuichou/Charades/releases/download/app/app-release.apk)
 
-*(这是一个下载链接占位符，请看文末的教程，学习如何替换成您自己的下载链接)*
