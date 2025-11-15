@@ -17,7 +17,9 @@
 
 ## 📸 应用截图
 
+<img src="https://github.com/penghuichou/Charades/blob/79a4802a7d1ca2bd0fe3688a261823c2c1c86de3/images/Screenshot_20251114-094546.png" width="33%"><img src="https://github.com/penghuichou/Charades/blob/79a4802a7d1ca2bd0fe3688a261823c2c1c86de3/images/Screenshot_20251114-094637.png" width="33%"><img src="https://github.com/penghuichou/Charades/blob/79a4802a7d1ca2bd0fe3688a261823c2c1c86de3/images/Screenshot_20251114-094700.png" width="33%">
 
+<img src="https://github.com/penghuichou/Charades/blob/79a4802a7d1ca2bd0fe3688a261823c2c1c86de3/images/Screenshot_20251114-094717.png" width="33%"><img src="https://github.com/penghuichou/Charades/blob/79a4802a7d1ca2bd0fe3688a261823c2c1c86de3/images/Screenshot_20251114-094918.png" width="33%"><img src="https://github.com/penghuichou/Charades/blob/79a4802a7d1ca2bd0fe3688a261823c2c1c86de3/images/Screenshot_20251114-094927.png" width="33%">
 
 ## ✨ 核心功能
 
